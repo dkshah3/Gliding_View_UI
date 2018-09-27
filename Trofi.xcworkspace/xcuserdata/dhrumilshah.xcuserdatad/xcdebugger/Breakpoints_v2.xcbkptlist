@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trofi/views/DemoCell.swift"
+            timestampString = "524962310.258248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DemoCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trofi.DemoCell.__deallocating_deinit"
+                  moduleName = "Trofi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhrumilshah/Desktop/Trofi%202/Trofi/views/DemoCell.swift"
+                  timestampString = "524962311.164262"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trofi.DemoCell.__ivar_destroyer"
+                  moduleName = "Trofi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhrumilshah/Desktop/Trofi%202/Trofi/views/DemoCell.swift"
+                  timestampString = "524962311.166304"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trofi.DemoCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; Trofi.DemoCell"
+                  moduleName = "Trofi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhrumilshah/Desktop/Trofi%202/Trofi/views/DemoCell.swift"
+                  timestampString = "524962311.168022"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trofi.DemoCell.__allocating_init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; Trofi.DemoCell"
+                  moduleName = "Trofi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhrumilshah/Desktop/Trofi%202/Trofi/views/DemoCell.swift"
+                  timestampString = "524962311.169679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trofi.DemoCell.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Trofi.DemoCell&gt;"
+                  moduleName = "Trofi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhrumilshah/Desktop/Trofi%202/Trofi/views/DemoCell.swift"
+                  timestampString = "524962311.171439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trofi.DemoCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Trofi.DemoCell&gt;"
+                  moduleName = "Trofi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhrumilshah/Desktop/Trofi%202/Trofi/views/DemoCell.swift"
+                  timestampString = "524962311.172922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
